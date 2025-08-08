@@ -1,0 +1,15 @@
+.desktoplogo img {
+    width: auto;
+    max-width: inherit;
+    max-height: 85px;
+}
+.desktoplogo .logo-black {
+    margin-top: -10px;
+}
+#hero-17 #brands-1 {
+    padding: 60px 6% 60px;
+}
+img.footer-logo {
+    max-height: 80px;
+    margin-top: -20px;
+}
